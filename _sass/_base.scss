@@ -257,21 +257,28 @@ pre {
   text-align: center;
 }
 
+
 // Profile Pic
-#profilepic {
-  border-radius: 50%;
-  max-height: 20%;
-  max-width: 20%;
-}
-
-#profilepic:hover {
-    animation-name: rotate;
-    animation-duration: 1s;
-    animation-iteration-count: 1;
-    animation-timing-function: linear;
-}
-
-@keyframes rotate {
-    from {transform: rotate(0deg);}
-    to {transform: rotate(360deg);}
+.profilecont {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  margin: 20px 0;
+  transition: transform 1s ease-out;
+  transform:rotate(0deg);
+  -webkit-transform:rotate(0deg); /* Safari and Chrome */
+  &:hover {
+    transform:rotate(360deg);
+    -webkit-transform:rotate(360deg); /* Safari and Chrome */
+  }
+  .profilepic {
+    position:absolute;
+    left:0;
+    transition: opacity 1s ease-in-out;
+    border-radius: 50%;
+    &:hover {
+      transition: opacity 1s ease-in-out;
+      opacity: 0;
+    }
+  }
 }
