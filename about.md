@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/assets/profile_pic_2016.jpg" id="profilepic" />
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm Gary Grumbley, and this is my little corner of the internet. This is where I  post whatever I am working on, from projects to articles. I live and work in beautiful San Diego, California. Where I enjoy making web apps and hacking on open source hardware projects. I am also a licensed attorney with a specialization in intellectual property.

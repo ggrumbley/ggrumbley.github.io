@@ -6,9 +6,125 @@
 </description>
     <link>http://garygrumbley.com/</link>
     <atom:link href="http://garygrumbley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2016 08:38:42 -0800</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2016 08:38:42 -0800</lastBuildDate>
+    <pubDate>Sat, 19 Nov 2016 10:44:09 -0800</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 10:44:09 -0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>History Walk</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/project-historyWalk.png&quot; alt=&quot;HistoryWalk project image&quot; title=&quot;HistoryWalk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This project is an audio tour app. The goal of this app is to make custom audio tours accessable to parks, towns and small art galleries. This project is built with Angular, Bootstrap and Ruby on Rails. Best viewed on mobile.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apologetic-eh-5318.herokuapp.com/&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/historyWalk&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:55:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/history-walk.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/history-walk.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Typeahead From CSV File</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/project-autoCountry.png&quot; alt=&quot;Typeahead Example image&quot; title=&quot;Typeahead Example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a typeahead example I built for a code test. The data is pulled from a CSV file that is parsed on the client side. The typeahead functionality is achieved with jQuery and vanilla JavaScript. The user’s selection is added to a list.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/autoCountry/index.html&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/ggrumbley.github.io/tree/master/projects/autoCountry&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:54:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/typeahead.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/typeahead.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Generic Property Site</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/project-propertyMGMT.png&quot; alt=&quot;Generic Property Site image&quot; title=&quot;Generic Site&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a simple generic property management page I built for a code test. This is a responsive site built with a mobile first approach. The page features a dynamically generated comment section and a three image slideshow.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/propertyMGMT/index.html&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/ggrumbley.github.io/tree/master/projects/propertyMGMT&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:53:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/generic-prop-site.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/generic-prop-site.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>myWhiskyShelf</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/project-myWhiskyShelf.png&quot; alt=&quot;Whisky Shelf App image&quot; title=&quot;myWhiskyShelf&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a site for recording the user’s whisky collection and allows them to add their own impressions of the whisky. This application is built with the Ruby on Rails Omakase stack.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lit-lowlands-5680.herokuapp.com/&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/myWhiskeyShelf&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:52:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/myWhiskyShelf.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/myWhiskyShelf.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Dynamically Generated Tabs</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/project-tabs.png&quot; alt=&quot;Dynamically Generated Tabs image&quot; title=&quot;Dynamically Generated Tabs Example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a simple page UI I built using jQuery and CSS3 transitions. The user can generate multiple boxes and specify how many tabs are in each box as well as which tab will be the default tab. The color for each box is selected at random.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/dynamicTabGenerator/dynamic.html&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/ggrumbley.github.io/tree/master/projects/dynamicTabGenerator&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:51:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/dynamic-tabs.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/dynamic-tabs.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>StumblinGrumblin.com</title>
+        <description>&lt;p&gt;This is my old homepage. It is a simple static site made with Bootstrap.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 09:49:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/11/17/old-homepage.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/11/17/old-homepage.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Random Grumblings</title>
+        <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Nov 2016 09:50:01 -0800</pubDate>
+        <link>http://garygrumbley.com/blog/2016/11/10/welcome-to-my-new-blog.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/blog/2016/11/10/welcome-to-my-new-blog.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,13 +144,11 @@
 
 </description>
         <pubDate>Fri, 19 Aug 2016 13:58:01 -0700</pubDate>
-        <link>http://garygrumbley.com/jekyll/update/2016/08/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://garygrumbley.com/jekyll/update/2016/08/19/welcome-to-jekyll.html</guid>
+        <link>http://garygrumbley.com/blog/2016/08/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/blog/2016/08/19/welcome-to-jekyll.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>blog</category>
         
       </item>
     

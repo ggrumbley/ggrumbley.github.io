@@ -51,6 +51,38 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
 .icon > svg path { fill: #828282; }
 
+/** Buttons */
+.btn { color: white; text-decoration: none; padding: 5px 10px; border-radius: 2px; font-size: 20px; }
+
+.btn-green { background: #2ecc71; }
+.btn-green:hover { background: #26ab5f; transition: all 0.3s ease; text-decoration: none; }
+.btn-green:active { background: #176437; text-decoration: none; }
+.btn-green:visited { color: white; text-decoration: none; }
+
+.btn-blue { background: #3498db; }
+.btn-blue:hover { background: #2383c4; transition: all 0.3s ease; text-decoration: none; }
+.btn-blue:active { background: #16527a; text-decoration: none; }
+.btn-blue:visited { color: white; text-decoration: none; }
+
+.btn-yellow { background: #f1c40f; }
+.btn-yellow:hover { background: #cba50c; transition: all 0.3s ease; text-decoration: none; }
+.btn-yellow:active { background: #796307; text-decoration: none; }
+.btn-yellow:visited { color: white; text-decoration: none; }
+
+.btn-red { background: #e74c3c; }
+.btn-red:hover { background: #df2e1b; transition: all 0.3s ease; text-decoration: none; }
+.btn-red:active { background: #921e12; text-decoration: none; }
+.btn-red:visited { color: white; text-decoration: none; }
+
+/*Other Stylez*/
+.wrap { margin: 0 auto; width: 800px; text-align: center; }
+
+#profilepic { border-radius: 50%; max-height: 20%; max-width: 20%; }
+
+#profilepic:hover { animation-name: rotate; animation-duration: 1s; animation-iteration-count: 1; animation-timing-function: linear; }
+
+@keyframes rotate { from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); } }
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
 
