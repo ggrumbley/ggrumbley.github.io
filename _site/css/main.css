@@ -78,12 +78,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .wrap { margin: 0 auto; width: 800px; text-align: center; }
 
 /** Site header */
-.site-header { float: left; height: 100%; max-width: 256px; padding: 10px 20px; width: 25%; position: relative; }
-.site-header .logo { position: relative; height: 200px; width: 200px; margin: 20px 20px; transition: transform .5s ease-out; transform: rotate(0deg); -webkit-transform: rotate(0deg); /* Safari and Chrome */ }
+.site-header { float: left; height: 100%; max-width: 256px; padding: 1em; width: 25%; position: relative; }
+.site-header .logo { position: relative; height: 200px; width: 200px; margin: 0 20px; transition: transform .5s ease-out; transform: rotate(0deg); -webkit-transform: rotate(0deg); /* Safari and Chrome */ }
 .site-header .logo:hover { transform: rotate(360deg); -webkit-transform: rotate(360deg); /* Safari and Chrome */ }
 .site-header .logo .profilepic { position: absolute; left: 0; transition: opacity .5s ease-in-out; border-radius: 50%; }
 .site-header .logo .profilepic:hover { transition: opacity .5s ease-in-out; opacity: 0; }
-.site-header .description { text-align: center; font-weight: 300; font-size: 20px; }
+.site-header .description { text-align: center; font-weight: 300; font-size: 20px; margin-top: 1em; }
 .site-header .site-title { font-size: 26px; font-weight: 300; line-height: 56px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 .site-header .site-title, .site-header .site-title:visited { color: #424242; }
 .site-header .site-nav .menu-icon { display: none; }
@@ -98,7 +98,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
   .site-header .site-nav .page-link:not(:last-child) { margin-right: 0; } }
 
 /** Site Content */
-.site-content { float: left; width: 50.5%; margin-left: 2.5%; padding-top: 1em; max-width: 800px; vertical-align: top; }
+.site-content { float: left; width: 50.5%; margin-left: 1.5%; padding-top: 1em; max-width: 800px; vertical-align: top; }
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
