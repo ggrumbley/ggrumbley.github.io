@@ -23,6 +23,9 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
 }
 
 
@@ -255,30 +258,4 @@ pre {
   margin: 0 auto;
   width: 800px;
   text-align: center;
-}
-
-
-// Profile Pic
-.profilecont {
-  position: relative;
-  height: 200px;
-  width: 200px;
-  margin: 20px 0;
-  transition: transform 1s ease-out;
-  transform:rotate(0deg);
-  -webkit-transform:rotate(0deg); /* Safari and Chrome */
-  &:hover {
-    transform:rotate(360deg);
-    -webkit-transform:rotate(360deg); /* Safari and Chrome */
-  }
-  .profilepic {
-    position:absolute;
-    left:0;
-    transition: opacity 1s ease-in-out;
-    border-radius: 50%;
-    &:hover {
-      transition: opacity 1s ease-in-out;
-      opacity: 0;
-    }
-  }
 }
