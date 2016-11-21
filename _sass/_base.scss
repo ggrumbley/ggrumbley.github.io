@@ -238,11 +238,11 @@ pre {
 }
 
 .btn-green {
-   @include button-bg(#2ecc71);
+   @include button-bg($brand-color);
 }
 
 .btn-blue {
-   @include button-bg(#3498db);
+   @include button-bg(#03a9f4);
 }
 
 .btn-yellow{

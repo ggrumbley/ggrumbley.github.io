@@ -54,14 +54,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Buttons */
 .btn { color: white; text-decoration: none; padding: 5px 10px; border-radius: 2px; font-size: 20px; }
 
-.btn-green { background: #2ecc71; }
-.btn-green:hover { background: #26ab5f; transition: all 0.3s ease; text-decoration: none; }
-.btn-green:active { background: #176437; text-decoration: none; }
+.btn-green { background: #00897b; }
+.btn-green:hover { background: #006056; transition: all 0.3s ease; text-decoration: none; }
+.btn-green:active { background: #000a09; text-decoration: none; }
 .btn-green:visited { color: white; text-decoration: none; }
 
-.btn-blue { background: #3498db; }
-.btn-blue:hover { background: #2383c4; transition: all 0.3s ease; text-decoration: none; }
-.btn-blue:active { background: #16527a; text-decoration: none; }
+.btn-blue { background: #03a9f4; }
+.btn-blue:hover { background: #038dcc; transition: all 0.3s ease; text-decoration: none; }
+.btn-blue:active { background: #015276; text-decoration: none; }
 .btn-blue:visited { color: white; text-decoration: none; }
 
 .btn-yellow { background: #f1c40f; }
