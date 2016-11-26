@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "History Walk"
-date:   2016-11-17 10:55:01 -0700
+date:   2016-11-16 10:55:01 -0700
 description: "Rails and Angular app example."
 categories: Projects
 ---

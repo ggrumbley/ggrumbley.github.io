@@ -263,6 +263,13 @@ pre {
 /**
  * Github Corner
  */
+
+ .github-corner {
+   @include media-query($on-palm) {
+     display: none;
+   }
+ }
+
 .github-corner:hover .octo-arm {
   animation: octocat-wave 560ms ease-in-out;
 }
