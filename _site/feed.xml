@@ -6,9 +6,25 @@
 </description>
     <link>http://garygrumbley.com/</link>
     <atom:link href="http://garygrumbley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Nov 2016 16:28:00 -0800</pubDate>
-    <lastBuildDate>Fri, 25 Nov 2016 16:28:00 -0800</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2016 10:58:58 -0800</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2016 10:58:58 -0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Grumblebucks</title>
+        <description>&lt;p&gt;This is a demo app I built to demonstrate front-end JavaScript techniques. This a simple web form for a fictitious coffee company called Grumblebucks. The user inputs their order which then shows up in a drink queue for the barista. This app is primarily plain JavaScript using object oriented techniques for organizing my code. I used the Yeti Bootswatch theme for simple styling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/grumblebucks/index.html&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/grumblebucks&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Dec 2016 09:54:01 -0800</pubDate>
+        <link>http://garygrumbley.com/projects/2016/12/01/grumblebucks.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2016/12/01/grumblebucks.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
     
       <item>
         <title>Typeahead From CSV File</title>

@@ -1,0 +1,13 @@
+.caramel {
+  background-color: #C68E17;
+}
+.almond {
+  background-color: #EFDECD;
+}
+.mocha {
+  background-color: #A0522D;
+}
+
+form :focus:required:invalid {
+  border-color: #a94442;
+}
