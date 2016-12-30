@@ -6,8 +6,8 @@
 </description>
     <link>http://garygrumbley.com/</link>
     <atom:link href="http://garygrumbley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2016 13:59:24 -0800</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 13:59:24 -0800</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2016 17:41:01 -0800</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2016 17:41:01 -0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -15,15 +15,15 @@
         <description>&lt;p&gt;&lt;a href=&quot;/projects/sheets/index.html&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
 &lt;a href=&quot;https://github.com/ggrumbley/react-spreadsheet&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;After spending the last year locked into an Angular project at work I have wanted to try something simpler. There is nothing wrong with Angular but it is hefty enough abstraction over pure JavaScript that it feels more like a DSL. Now that most ES6 features are compatible with every major browser in addition to Node I have wanted to get back to basics and really focus on learning to write clean ES6 JavaScript. I also like the general web component trend of encapsulating front end code into easily reusable modules. React has championed both ES6 and web components. I have wanted to get started with React but have been apprehensive about getting locked into another JavaScript framework.&lt;/p&gt;
+&lt;p&gt;After spending the last year locked into an Angular project at work I have wanted to try something simpler. There is nothing wrong with Angular but it is a hefty enough abstraction over pure JavaScript that it feels more like a DSL. Now that most ES6 features are compatible with every major browser in addition to Node, I have wanted to get back to basics and really focus on learning to write clean ES6 JavaScript. I also like the general web component trend of encapsulating front end code into easily reusable modules. React has championed both ES6 and web components. I have wanted to get started with React but have been apprehensive about getting locked into another JavaScript framework.&lt;/p&gt;
 
-&lt;p&gt;I decided to build a spreadsheet component using just React and React DOM. I chose this canonical React example to see if I could build a useful non-trivial component without being locked into the React ecosystem or being forced to wade into the quickly changing JavaScript tooling ecosystem. Sadly, I have foregone ES6 in this project so I can focus on basic React. The only libraries used in this project are React, React DOM, and Pure CSS.&lt;/p&gt;
+&lt;p&gt;I decided to build a spreadsheet component using just React and React DOM. I chose this canonical React example to see if I could build a useful non-trivial component without being locked into the React ecosystem or being forced to wade through the quickly changing JavaScript tooling ecosystem. I have foregone ES6 in this project so I can focus on basic React. The only libraries used in this project are React, React DOM, and Pure CSS.&lt;/p&gt;
 
-&lt;p&gt;The component is fully dynamic, taking advantage of way data is passed throughout the component. It takes two inputs: a one dimensional array of header information and a two dimensional array of spreadsheet data. The data loaded into the spreadsheet is my own board game collection. It has a lot of functionality including JSON/CSV exports, ‘ctrl+z’ undo shortcut, inline editing and data filters/search.&lt;/p&gt;
+&lt;p&gt;The component is fully dynamic, taking advantage of the way data is passed throughout the component. It takes two inputs: a one dimensional array of header information and a two dimensional array of spreadsheet data. The data loaded into the spreadsheet is my own board game collection. It has a lot of functionality including JSON/CSV exports, ‘ctrl+z’ undo shortcut, inline editing and data filters/search.&lt;/p&gt;
 
-&lt;p&gt;I learned a lot from building this component without JSX. The component is 241 lines of code with well over 200 of those being just vanilla JavaScript methods. React is only used to create the component, to designate it’s initial state, and to render the elements on the DOM. Without JSX I had to call React DOM methods to create each type of element that I needed. First argument was an object of attributes and the second was any child elements. This was definitely a clunky way to write out the markup for the component but not unworkable. Now I have a component that can be dropped into just about any project (including an Angular project) and it will just work.&lt;/p&gt;
+&lt;p&gt;I learned a lot from building this component without JSX. The component is 241 lines of code with well over 200 of those being just vanilla JavaScript methods. React is only used to create the component, to designate its initial state, and to render the elements on the DOM. Without JSX I had to call React DOM functions to create each type of element that I needed. The first argument was an object of attributes and the second was any child elements. This was definitely a clunky way to write out the markup for the component but not unworkable. Now I have a component that can be dropped into just about any project (including an Angular project) and it will just work.&lt;/p&gt;
 
-&lt;p&gt;Once I got over the initial React learning curve to figure out how props and state are used this project went relatively quickly. It was also a lot of fun. Next up for this component will be adding a transpiler so I can convert the component to use JSX and ES6.&lt;/p&gt;
+&lt;p&gt;Once I overcame the initial React learning curve to figure out how props and state are used, this project went relatively quickly. It was also a lot of fun. Next up for this component will be adding a transpiler so I can convert the component to use JSX and ES6.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2016 11:37:00 -0800</pubDate>
         <link>http://garygrumbley.com/projects/2016/12/29/sheets.html</link>
