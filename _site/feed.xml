@@ -6,9 +6,29 @@
 </description>
     <link>http://garygrumbley.com/</link>
     <atom:link href="http://garygrumbley.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Dec 2016 17:41:01 -0800</pubDate>
-    <lastBuildDate>Thu, 29 Dec 2016 17:41:01 -0800</lastBuildDate>
+    <pubDate>Thu, 18 May 2017 10:57:00 -0700</pubDate>
+    <lastBuildDate>Thu, 18 May 2017 10:57:00 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Townie</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://gg-townie.herokuapp.com/&quot; class=&quot;btn btn-green&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;Project&lt;/a&gt;
+&lt;a href=&quot;https://github.com/ggrumbley/townie&quot; class=&quot;btn btn-blue&quot; role=&quot;button&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a love-hate relationship with Node.js. I want to like the platform for building apps but I have always disliked the way it handles the asynchronous behavior needed for web servers. Callback Hell is a real place. Catch-Try statements everywhere is messy and unappealing. The addition of promises cleaned it up a little, but one could still end up trying to pick apart long chains of promise calls, which is not ideal. Enter Node 7.6 with default async/await support. Suddenly writing a complex series of DB calls in a controller was elegantly handled by marking the controller as &lt;code class=&quot;highlighter-rouge&quot;&gt;async&lt;/code&gt; and adding &lt;code class=&quot;highlighter-rouge&quot;&gt;await&lt;/code&gt; to any method that the controller needed to wait on. Async/await coupled with ES6 is changing my mind about Node.js as a viable back-end option. JavaScript is feeling more Pythonic the more I use these new features. I therefore decided to try and build a larger, more complete project.&lt;/p&gt;
+
+&lt;p&gt;I looked around but did not find any code examples I really liked. No tutorials or Node.js examples were leveraging the cleaner syntax of async/await. Then I stumbled upon Wes Bos’s excellent &lt;a href=&quot;https://learnnode.com/&quot;&gt;Learn Node video series&lt;/a&gt;. I had been looking for an excuse to throw some 💰 his way after thoroughly enjoying his free &lt;a href=&quot;https://javascript30.com/&quot;&gt;30 Days of JavaScript course&lt;/a&gt;. Learn Node did not disappoint. His lessons were concise and insightful. Wes built this course with best in class technologies including Express.js, Pug, Passport.js, Mongoose, MongoDB, SASS, and Webpack. Every example used as much ES6 syntax as each piece of middleware would allow. The result was an in depth portrayal of what a well-designed Node.js project can look like.&lt;/p&gt;
+
+&lt;p&gt;Townie is the the Yelp clone I built while working through Learn Node. I have made a few tweaks to add Geolocation and plan to expand the API to support a React Native app which I am currently building. This project is exciting, and I am looking forward to digging into it as my new side-project.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 May 2017 20:00:00 -0700</pubDate>
+        <link>http://garygrumbley.com/projects/2017/05/17/townie.html</link>
+        <guid isPermaLink="true">http://garygrumbley.com/projects/2017/05/17/townie.html</guid>
+        
+        
+        <category>Projects</category>
+        
+      </item>
     
       <item>
         <title>React Sheets</title>
